@@ -3,7 +3,7 @@
     @Date: 2022-04-29 21:12
     @Last Modified by: Viney Khaneja
     @Last Modified time: None
-    @Title : Implementing REST using FLASK
+    @Title : Implementing REST using Flask Framework
 '''
 
 # Importing required modules
